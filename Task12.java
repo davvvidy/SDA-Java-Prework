@@ -27,6 +27,5 @@ public class Task12 {
                 idx = (int) (Math.random() * money.length+1);
             }
         }
-
     }
 }
